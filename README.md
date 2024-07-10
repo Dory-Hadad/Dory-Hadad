@@ -1,6 +1,5 @@
 # Hey, I’m @Dory-Hadad 👋
 I’m a third-year ⚡**electrical**💡 engineering student  
-Pronouns: He/Him  
 🕹️ I mostly do firmware and microcontroller-related programs  
 🌱 I’m currently learning how to use git correctly    
 📫 Here is my email :
