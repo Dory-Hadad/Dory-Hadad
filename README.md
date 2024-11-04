@@ -2,19 +2,22 @@
 I’m a third-year ⚡**electrical**💡 engineering student  
 🕹️ I mostly do firmware and microcontroller-related programs  
 🌱 I’m currently learning how to use git correctly    
-📫 Here is my email :
+📫 Here is my personnal email :
 - dory_hadad@hotmail.com
 
 # Cool projets I'm working on
 
 ### Geodar's Explor 1.5 (soon 2.0 😄)  
 My contributions:
-- Some parts of the firmware  
-- Some parts of the PI to Xiao programming (and vice-versa)  
+- Parts of the firmware  
+- Parts of the PI to ESP32 programming (and vice-versa)  
 ### Automated plant watering system
 - Still in the works!
 - Using a Xiao RP2040
-- Have to figure out a water pump 
+- Have to figure out a water pump
+### Matlab scripts for signal and image deconstruction and filtering
+- Fourier, Radon, discretization and Laplace transform
+- Especially leaning towards medical imagery: CT-scanning and mammography
 <!--
 this is a comment
 >
