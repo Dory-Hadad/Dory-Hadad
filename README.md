@@ -18,6 +18,10 @@ My contributions:
 ### Matlab scripts for signal and image deconstruction and filtering
 - Fourier, Radon, discretization and Laplace transform
 - Especially leaning towards medical imagery: CT-scanning and mammography
+### Simulink (Matlab) for circuit simulation
+- P, PI, PID, feed-forward controllers (and others!) 
+- Servo systems and optimizing response time
+  
 <!--
 this is a comment
 >
