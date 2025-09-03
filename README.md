@@ -1,7 +1,7 @@
 # Hey, I’m @Dory-Hadad 👋
 I’m an ⚡**electrical**💡 engineer  
 🕹️ I mostly do firmware and microcontroller-related programs  
-🌱 I’m currently learning how to use git correctly    
+🌱 Learning how to use git better    
 📫 Here is my personnal email :
 - dory_hadad@hotmail.com
 
