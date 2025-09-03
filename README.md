@@ -7,7 +7,7 @@ I’m an ⚡**electrical**💡 engineer
 
 # Cool projets I'm working on
 
-### Geodar's Explor 1.5 (soon 2.0 😄)  
+### Geodar's Explor 2.0 😄 (soon in your local stores?)  
 My contributions:
 - Parts of the firmware  
 - Parts of the PI to ESP32 programming (and vice-versa)  
