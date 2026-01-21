@@ -2,8 +2,8 @@
 I’m an ⚡**electrical**💡 engineer  
 🕹️ I mostly do firmware and microcontroller-related programs  
 🌱 Learning how to use git better    
-📫 Here is my personnal email :
-- dory_hadad@hotmail.com
+📫 Here is my work email :
+- dory@geodar.ca
 
 # Cool projets I'm working on
 
