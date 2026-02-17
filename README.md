@@ -1,18 +1,19 @@
 # Hey, I’m @Dory-Hadad 👋
 I’m an ⚡**electrical**💡 engineer  
-🕹️ I mostly do firmware and microcontroller-related programs  
-🌱 Learning how to use git better    
-📫 Here is my work email :
+I mostly do firmware and microcontroller-related programs  
+I now believe I use git correctly (don't look at my commit messages)    
+Here is my work email :
 - dory@geodar.ca
 
 # Cool projets I'm working on
 
 ### Geodar's Explor 2.0 😄 (soon in your local stores?)  
 My contributions:
-- Parts of the firmware  
-- Parts of the PI to ESP32 programming (and vice-versa)  
+- Firmware using Rust 🦀  
+- Raspi CM4 with Ubuntu / RP2040   
 ### Automated plant watering system
 - Still in the works!
+- Using old vape batteries, recharged by solar
 - Using a Xiao RP2040
 - Have to figure out a water pump
 ### Matlab scripts for signal and image deconstruction and filtering
